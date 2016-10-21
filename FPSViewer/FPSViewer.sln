@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPSViewer", "FPSViewer\FPSViewer.csproj", "{78D378B7-91EB-4609-9256-88AA95A30174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPSViewer.Tests", "FPSViewer.Tests\FPSViewer.Tests.csproj", "{7D7F411D-4C44-497D-81A6-8EC2FDABD0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D378B7-91EB-4609-9256-88AA95A30174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D378B7-91EB-4609-9256-88AA95A30174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D378B7-91EB-4609-9256-88AA95A30174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D378B7-91EB-4609-9256-88AA95A30174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D7F411D-4C44-497D-81A6-8EC2FDABD0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7F411D-4C44-497D-81A6-8EC2FDABD0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7F411D-4C44-497D-81A6-8EC2FDABD0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7F411D-4C44-497D-81A6-8EC2FDABD0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
